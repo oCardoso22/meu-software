@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63ff7d26-6a18-402f-b092-6302d0983aea" name="Changes" comment="Nova Mensagem add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HellowWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/HellowWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +68,7 @@
       <updated>1740612162025</updated>
       <workItem from="1740612162973" duration="638000" />
       <workItem from="1740613231332" duration="6000" />
+      <workItem from="1740613388660" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="Nova Mensagem add">
       <option name="closed" value="true" />
